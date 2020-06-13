@@ -13,7 +13,7 @@
 #### 数据分析及预处理
 
 * 代码：data_process.ipynb
-* 预处理后数据： process_data/train_data_v1.csv，process_data/test_data_v2.csv
+* 预处理后数据： process_data/train_data_v1.csv，process_data/test_data_v1.csv
 
 #### 数据分析内容
 
